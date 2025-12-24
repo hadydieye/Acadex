@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "date_maj": "2024-12-13",
+    "source": "Compilé depuis PLAGECC, sites officiels, Wikipedia",
+    "note": "Liste des principales universités de Guinée"
+  },
+  "universites_publiques": [
+    {
+      "id": "UGANC",
+      "nom": "Université Gamal Abdel Nasser de Conakry",
+      "sigle": "UGANC",
+      "statut": "Public",
+      "region": "Conakry",
+      "type_formations": ["Licence", "Master", "Doctorat", "DES"],
+      "facultes": [
+        {
+          "nom": "Faculté des Sciences et Techniques de la Santé (FMPOS)",
+          "filieres": ["Médecine (Doctorat d'État)", "Pharmacie", "Odontostomatologie", "DES Gynéco-obstétrique"]
+        },
+        {
+          "nom": "Faculté des Sciences",
+          "filieres": ["Mathématiques", "Physique", "Chimie", "Biologie", "Biochimie"]
+        },
+        {
+          "nom": "Institut Polytechnique (IP)",
+          "filieres": ["Génie Civil", "Génie Électrique", "Génie Mécanique", "Génie Informatique"]
+        },
+        {
+          "nom": "Centre Informatique (CI)",
+          "filieres": ["Informatique", "MIAGE"]
+        }
+      ]
+    },
+    {
+      "id": "UGLC-S",
+      "nom": "Université Général Lansana Conté de Sonfonia",
+      "sigle": "UGLC-S",
+      "statut": "Public",
+      "region": "Conakry",
+      "type_formations": ["Licence", "Master", "Doctorat"],
+      "facultes": [
+        {
+          "nom": "Faculté des Sciences Juridiques et Politiques",
+          "filieres": ["Droit privé", "Droit public", "Droit des affaires", "Sciences politiques"]
+        },
+        {
+          "nom": "Faculté des Sciences Économiques et de Gestion",
+          "filieres": ["Économie", "Gestion", "Finance", "Comptabilité"]
+        },
+        {
+          "nom": "Faculté des Sciences Sociales",
+          "filieres": ["Histoire", "Philosophie", "Sociologie", "Géographie"]
+        }
+      ]
+    },
+    {
+      "id": "UJNK",
+      "nom": "Université Julius Nyerere de Kankan",
+      "sigle": "UJNK",
+      "statut": "Public",
+      "region": "Kankan",
+      "type_formations": ["Licence", "Master"],
+      "facultes": [
+        {
+          "nom": "Faculté des Sciences de la Nature",
+          "filieres": ["Mathématiques", "Physique", "Chimie", "Biologie"]
+        },
+        {
+          "nom": "Faculté des Langues et Lettres",
+          "filieres": ["Langue Anglaise", "Langue Arabe", "Lettres"]
+        }
+      ]
+    },
+    {
+      "id": "UL",
+      "nom": "Université de Labé",
+      "sigle": "UL",
+      "statut": "Public",
+      "region": "Labé",
+      "type_formations": ["Licence", "Master"],
+      "facultes": [
+        {
+          "nom": "Faculté principale",
+          "filieres": ["Sciences sociales", "Lettres", "Sciences économiques"]
+        }
+      ]
+    }
+  ],
+  "universites_privees": [
+    {
+      "id": "UKAG",
+      "nom": "Université Kofi Annan de Guinée",
+      "sigle": "UKAG",
+      "statut": "Privé",
+      "region": "Conakry",
+      "type_formations": ["BTS", "Licence", "Licence Pro", "Ingénieur", "Master", "Doctorat"],
+      "facultes": [
+        {
+          "nom": "Faculté des Sciences Juridiques et Politiques",
+          "filieres": ["Sciences Juridiques - Droit", "Administration Générale", "Relations Internationales"]
+        },
+        {
+          "nom": "Faculté des Sciences Économiques et de Gestion",
+          "filieres": ["Administration des Affaires", "Marketing et Stratégies", "Comptabilité et Gestion financières"]
+        },
+        {
+          "nom": "Faculté de Médecine, Pharmacie et Odontostomatologie",
+          "filieres": ["Doctorat Médecine", "Infirmier", "Préparateurs en Pharmacie"]
+        },
+        {
+          "nom": "École Polytechnique d'Ingénieurs",
+          "filieres": ["Ingénieur Génie Civil", "Ingénieur Génie Électrique", "Ingénieur Informatique"]
+        }
+      ]
+    },
+    {
+      "id": "UNC",
+      "nom": "Université Nongo Conakry",
+      "sigle": "UNC",
+      "statut": "Privé",
+      "region": "Conakry",
+      "type_formations": ["Licence", "Master"],
+      "facultes": [
+        {
+          "nom": "Facultés principales",
+          "filieres": ["Droit", "Sciences économiques", "Gestion", "Informatique"]
+        }
+      ]
+    },
+    {
+      "id": "AUTRE",
+      "nom": "Autre université",
+      "sigle": "AUTRE",
+      "statut": "Autre",
+      "region": "Autre",
+      "type_formations": ["Licence", "Master", "Doctorat"],
+      "facultes": [
+        {
+          "nom": "Autre faculté",
+          "filieres": ["Autre filière"]
+        }
+      ]
+    }
+  ]
+}
